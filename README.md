@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#">&#x200B;</a>Pendevx</h1>
+<h1 align="center"><a href="#">&#x200B;</a>pendevx</h1>
 
 <img align="right" src="https://raw.githubusercontent.com/pendevx/github-stats-transparent/output/generated/overview.svg" width="400">
 
