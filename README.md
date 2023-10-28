@@ -1,16 +1,16 @@
-<h1 align="center">Pendevx</h1>
+<h1 align="center"><a href="#">&#x200B;</a>Pendevx</h1>
 
 <img align="right" src="https://raw.githubusercontent.com/pendevx/github-stats-transparent/output/generated/overview.svg" width="400">
 
 
 <br><br><br>
-<h3>
+<p>
 Hello there, my name is Guangheng Xian, and I am a student software developer at Auckland University of Technology!
-</h3>
+</p>
 
 <br><br><br><br>
 
-<h2 align="center">Languages</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Languages</h2>
 <table align="center">
 <tr>
     <td align="center" width="260">
@@ -33,7 +33,7 @@ Hello there, my name is Guangheng Xian, and I am a student software developer at
 
 <br><br>
 
-<h2 align="center">Tools and Frameworks</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Tools and Frameworks</h2>
 <table align="center">
 <tr>
     <td align="center" width="260">
