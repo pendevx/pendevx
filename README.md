@@ -5,7 +5,7 @@
 
 <br><br><br>
 <p>
-Hello there, my name is Guangheng Xian, and I am a student software developer at Auckland University of Technology!
+Hello there, my name is Guangheng Xian, a full-stack web developer!
 </p>
 
 <br><br><br><br>
